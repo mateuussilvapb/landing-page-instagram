@@ -35,4 +35,4 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 Quer fazer parte desse projeto? Siga os passos descritos anteriormente!
 
-[⬆ Voltar ao topo](#Recriando-a-pagina-inicial-do-Instagram)<br>
+[⬆ Voltar ao topo](#Recriando-a-página-inicial-do-Instagram)<br>
